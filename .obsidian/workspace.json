@@ -95,10 +95,10 @@
               "type": "backlink",
               "state": {
                 "file": "Lilux/vim.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Lilux/vim.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "未命名 的出链列表"
+              "title": "vim 的出链列表"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
+                "file": "Lilux/vim.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "vim 的大纲"
             }
           },
           {
@@ -169,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 408.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,15 +185,19 @@
   },
   "active": "d2077c2abd644547",
   "lastOpenFiles": [
-    "git/Git.md",
-    "未命名.md",
+    "Lilux/文件系统.md",
+    "Lilux/命令.md",
     "Lilux/vim.md",
-    "git",
+    "Pasted image 20260720224147.png",
+    "2026-07-20.md",
     "未命名.canvas",
+    "git/Git.md",
+    "Pasted image 20260720000123.png",
+    "Pasted image 20260720000847.png",
+    "未命名.md",
+    "git",
     "未命名 2.canvas",
     "未命名 1.canvas",
-    "Pasted image 20260720000847.png",
-    "Pasted image 20260720000123.png",
     "欢迎.md",
     "Lilux",
     "lilux",
