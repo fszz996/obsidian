@@ -25,3 +25,10 @@ eg:
 	classmates=('1','2','3')
 
 **notice** :对于只有一个元素的tuple,为了与普通的数学()区分,在元素后加逗号,
+
+
+
+### 其他
+
+- range(n):生成从0到n-1的list
+- list(<list名>)  :列出完整list 
