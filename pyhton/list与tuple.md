@@ -2,6 +2,7 @@
 
 一种有序的集合,有点像c中的数组,但元素可以为任意类型
 可以嵌套,类似n维数组
+**用中括号**
 
 eg:
 classmates=\['fszz','fszz2','fszz3']
@@ -19,7 +20,7 @@ classmates=\['fszz','fszz2','fszz3']
 ## tuple
 
 就是元素不可变的list,但可以嵌套list,其中list中元素可变
-用小括号
+**用小括号**
 
 eg:
 	classmates=('1','2','3')

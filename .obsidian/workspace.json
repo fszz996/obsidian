@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pyhton/dict and set.md",
+                "file": "pyhton/函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dict and set"
+              "title": "函数"
+            }
+          },
+          {
+            "id": "52bc21249796fb79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pyhton/函数.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "函数"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,8 +68,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#用",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -194,35 +209,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1291b9494715d123",
+  "active": "52bc21249796fb79",
   "lastOpenFiles": [
-    "pyhton/list与tuple.md",
+    "pyhton/常用函数.md",
     "pyhton/循环.md",
-    "pyhton/dict and set.md",
+    "pyhton/函数.md",
+    "2026-07-28.md",
+    "未命名.canvas",
+    "pyhton/list与tuple.md",
     "pyhton/py的优缺点.md",
-    "pyhton/交互模式与py文件.md",
+    "pyhton/输入与输出.md",
+    "pyhton/dict and set.md",
     "pyhton/注释.md",
     "pyhton/条件判断和match.md",
-    "Linux/文件系统.md",
-    "Linux/shell.md",
     "Linux/vs code在wsl中工作.md",
-    "Linux/vim.md",
+    "暑假实验报告/DLL 角色认知.md",
+    "暑假实验报告",
+    "Linux/文件系统.md",
     "Linux/命令.md",
+    "Linux/vim.md",
+    "Linux/shell.md",
     "git/Git.md",
-    "pyhton/输入与输出.md",
+    "English aboat cs.md",
+    "pyhton/交互模式与py文件.md",
     "pyhton/相关基础.md",
     "home/fszz/learning/python",
     "home/fszz/learning",
     "home/fszz",
     "home",
-    "未命名",
     "未命名 1.base",
     "未命名.base",
     "权限.md",
     "Pasted image 20260722213624.png",
     "pyhton",
     "Pasted image 20260720224147.png",
-    "未命名.md",
     "未命名 1",
     "2026-07-20.md",
     "Pasted image 20260720000123.png",
@@ -230,14 +250,9 @@
     "Linux",
     "Lilux/vim.md",
     "Lilux/命令.md",
-    "未命名.canvas",
     "Pasted image 20260720000847.png",
     "未命名 2.canvas",
     "未命名 1.canvas",
-    "欢迎.md",
-    "创建链接.md",
-    "second note.md",
-    "first.md",
     "Pasted image 20260715220826.png"
   ]
 }
