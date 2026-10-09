@@ -1,0 +1,3 @@
+- URI           uniform resource identifier-标识
+- URL           uniform resource locator 
+- trace         追踪

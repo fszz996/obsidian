@@ -33,3 +33,6 @@ eg:
 
 - range(n):生成从0到n-1的list
 - list(<list名>)  :列出完整list 
+    #### 切片
+    对list tuple range str 可以使用\[start:end:(step)]切片取片段
+    

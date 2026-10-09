@@ -27,16 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pyhton/函数.md",
+                "file": "html/html基础.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "函数"
+              "title": "html基础"
+            }
+          },
+          {
+            "id": "34bc0988467f3daa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -56,7 +66,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -93,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8980cb1680273b3c",
@@ -209,30 +222,38 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52bc21249796fb79",
+  "active": "34bc0988467f3daa",
   "lastOpenFiles": [
-    "pyhton/常用函数.md",
-    "pyhton/循环.md",
-    "pyhton/函数.md",
-    "2026-07-28.md",
-    "未命名.canvas",
+    "java/面向对象基础.md",
+    "pyhton/条件判断和match.md",
     "pyhton/list与tuple.md",
-    "pyhton/py的优缺点.md",
+    "pyhton/相关基础.md",
     "pyhton/输入与输出.md",
+    "pyhton/交互模式与py文件.md",
+    "java/未命名.md",
+    "Words and phrases about http.md",
+    "java",
+    "html/html基础.md",
+    "http",
+    "pyhton/py的优缺点.md",
+    "Linux/vs code在wsl中工作.md",
+    "html",
+    "2026-09-16.md",
+    "Linux/命令.md",
+    "Linux/文件系统.md",
+    "pyhton/函数.md",
+    "Linux/shell.md",
+    "Linux/vim.md",
+    "暑假实验报告/DLL 角色认知.md",
+    "git/Git.md",
+    "pyhton/循环.md",
     "pyhton/dict and set.md",
     "pyhton/注释.md",
-    "pyhton/条件判断和match.md",
-    "Linux/vs code在wsl中工作.md",
-    "暑假实验报告/DLL 角色认知.md",
+    "pyhton/常用函数.md",
+    "2026-07-28.md",
+    "未命名.canvas",
     "暑假实验报告",
-    "Linux/文件系统.md",
-    "Linux/命令.md",
-    "Linux/vim.md",
-    "Linux/shell.md",
-    "git/Git.md",
     "English aboat cs.md",
-    "pyhton/交互模式与py文件.md",
-    "pyhton/相关基础.md",
     "home/fszz/learning/python",
     "home/fszz/learning",
     "home/fszz",
@@ -241,15 +262,8 @@
     "未命名.base",
     "权限.md",
     "Pasted image 20260722213624.png",
-    "pyhton",
     "Pasted image 20260720224147.png",
-    "未命名 1",
-    "2026-07-20.md",
     "Pasted image 20260720000123.png",
-    "Lilux/文件系统.md",
-    "Linux",
-    "Lilux/vim.md",
-    "Lilux/命令.md",
     "Pasted image 20260720000847.png",
     "未命名 2.canvas",
     "未命名 1.canvas",
