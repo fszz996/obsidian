@@ -1,4 +1,5 @@
 {
   "spellcheck": false,
-  "useTab": false
+  "useTab": false,
+  "readableLineLength": false
 }
