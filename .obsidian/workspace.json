@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring Boot/web后端初步.md",
+                "file": "mysql/mysql初步.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "web后端初步"
+              "title": "mysql初步"
             }
           }
         ]
@@ -198,8 +198,10 @@
   },
   "active": "88c281b3df9c17f8",
   "lastOpenFiles": [
-    "Spring Boot/未命名.md",
     "Spring Boot/web后端初步.md",
+    "mysql/mysql初步.md",
+    "mysql",
+    "Spring Boot/未命名.md",
     "java/面向对象基础.md",
     "java/Exception.md",
     "java/泛型.md",
@@ -227,14 +229,12 @@
     "暑假实验报告/DLL 角色认知.md",
     "git/Git.md",
     "pyhton/循环.md",
-    "pyhton/dict and set.md",
     "未命名.canvas",
     "暑假实验报告",
     "home/fszz/learning/python",
     "home/fszz/learning",
     "home/fszz",
     "home",
-    "未命名 1.base",
     "Pasted image 20260722213624.png",
     "Pasted image 20260720224147.png",
     "Pasted image 20260720000123.png",
