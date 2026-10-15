@@ -1,7 +1,11 @@
 # 基本结构
 **sql**:数据库
 **MySQL**:与SQL交互的语言
-
+启动sql数据库:
+```powershell
+C:\mysql\bin\mysqld.exe --console #mysqld:服务器端
+C:\mysql\bin\mysql.exe -u root -p  #客户端
+```
 ## 包含
 - 数据库 DATABADE
     - 表 TABLE
@@ -21,14 +25,14 @@ show TABLES -- 查看其中的表
 -- 创建
 CREATE DATABASE learning
 CREATE TABLE student(
-    id INT PRIMARY KEYK,-- 主键,代表每个row的唯一标识
+    id INT PRIMARY KEY AUTO_INCREMENT,-- 主键,代表每个row的唯一标识,且自动递增
     name VARCHAR (50),-- 最大值
     age INT
 );
 
 -- 创建/插入一个TABLE实例
 INSERT INTO studnet(id,name,age)
-value(1,fszz,18);
+value(DEFAULT,fszz,18);--  使用默认值
 
 -- 查询row
 SELECT * FROM student;-- 显示所有行列-整个表
@@ -53,5 +57,17 @@ SELECT MIN(name) From student;
 -- 按年龄分组
 GROUP BY age 
 
-
 ```
+
+# join合并
+```mysql
+SELECT * -- 所有列
+FROM studnet
+JOIN scores
+ON student.id=scores.id;-- 将id相同的合并并输出
+JOIN ---
+ON ---- -- 可以链接多张表
+```
+join / leftjoin
+join合并两表都有的,没有的舍弃
+leftjoin合并from表的全部,join没有的会写入NULL
