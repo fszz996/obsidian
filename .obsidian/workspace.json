@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf/ssti-琪露诺的完美算数教室!.md",
+                "file": "ctf/EasyLogin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ssti-琪露诺的完美算数教室!"
+              "title": "EasyLogin"
             }
           }
         ]
@@ -196,8 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b343c0a7ede3d73",
+  "active": "4e6c040ee785df07",
   "lastOpenFiles": [
+    "ctf/Book Management System_V2 - sql注入.md",
+    "ctf/EasyLogin.md",
+    "ctf/mini- Book Management System-sql注入.md",
+    "ctf/ssti-琪露诺的完美算数教室!.md",
+    "ctf/The Knife.md",
+    "ctf/Bearmart.md",
+    "ctf/Get Post Universe.md",
+    "ctf/Do you really understand http.md",
+    "Spring Boot/创建个人博客.md",
     "AI/claude.md",
     "AI",
     "pyhton/注释.md",
@@ -206,14 +215,8 @@
     "未命名.canvas",
     "未命名",
     "未命名 1.md",
-    "ctf/ssti-琪露诺的完美算数教室!.md",
     "Pasted image 20261025170315.png",
     "Pasted image 20261025013505.png",
-    "ctf/Bearmart.md",
-    "ctf/The Knife.md",
-    "ctf/Get Post Universe.md",
-    "ctf/Do you really understand http.md",
-    "ctf/mini- Book Management System-sql注入.md",
     "mysql/外键.md",
     "ctf",
     "mysql/mysql初步.md",
@@ -231,9 +234,6 @@
     "html/html基础.md",
     "pyhton/条件判断和match.md",
     "pyhton/list与tuple.md",
-    "pyhton/相关基础.md",
-    "pyhton/输入与输出.md",
-    "pyhton/交互模式与py文件.md",
     "java",
     "http",
     "html",
