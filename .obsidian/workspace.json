@@ -20,8 +20,19 @@
               "icon": "lucide-file",
               "title": "EasyLogin"
             }
+          },
+          {
+            "id": "9e177ca43e36cd90",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8980cb1680273b3c",
@@ -198,14 +210,17 @@
   },
   "active": "4e6c040ee785df07",
   "lastOpenFiles": [
+    "ctf/wbex-0.md",
+    "ctf/wbex-0.md",
     "ctf/Book Management System_V2 - sql注入.md",
     "ctf/EasyLogin.md",
-    "ctf/mini- Book Management System-sql注入.md",
     "ctf/ssti-琪露诺的完美算数教室!.md",
-    "ctf/The Knife.md",
     "ctf/Bearmart.md",
+    "ctf/The Knife.md",
     "ctf/Get Post Universe.md",
     "ctf/Do you really understand http.md",
+    "ctf/mini- Book Management System-sql注入.md",
+    "Linux/venv.md",
     "Spring Boot/创建个人博客.md",
     "AI/claude.md",
     "AI",
@@ -231,9 +246,6 @@
     "mysql",
     "Spring Boot",
     "pyhton/函数.md",
-    "html/html基础.md",
-    "pyhton/条件判断和match.md",
-    "pyhton/list与tuple.md",
     "java",
     "http",
     "html",
