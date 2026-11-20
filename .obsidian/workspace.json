@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "473962b8f4e92257",
+        "id": "7298c90a7ffd951b",
         "type": "tabs",
         "children": [
           {
-            "id": "4693b6d7c188c5c5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
-          },
-          {
-            "id": "774541a481dc78db",
+            "id": "f4264dcda81cd358",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ctf/魔理沙的借书之旅.md",
+                "file": "ctf/pwn/Canary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "魔理沙的借书之旅"
+              "title": "Canary"
             }
           }
         ]
@@ -110,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ctf/pwn/Canary.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -128,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pyhton/dict and set.md",
+                "file": "ctf/pwn/Canary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
@@ -209,13 +200,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4693b6d7c188c5c5",
+  "active": "f4264dcda81cd358",
   "lastOpenFiles": [
+    "未命名 3.base",
+    "ctf/pwn/Repeater - ret2libc.md",
+    "ctf/pwn/Canary.md",
+    "ctf/pwn/Introduce yourself again.md",
     "ctf/pwn/Share interesting things.md",
-    "Pasted image 20261115144013.png",
+    "% 定义系统系数.txt",
+    "汇编/函数所用寄存器.md",
+    "汇编/初见汇编.md",
     "ctf/pwn/Introduce yourself.md",
-    "未命名 2.base",
+    "未命名 3.md",
+    "Linux/elf文件结构.md",
     "Linux/命令.md",
+    "Pasted image 20261115144013.png",
+    "未命名 2.base",
     "Linux/文件系统.md",
     "Linux/shell.md",
     "Linux/vs code在wsl中工作.md",
@@ -228,19 +228,12 @@
     "ctf/Book Management System_V2 - sql注入.md",
     "ctf/mini- Book Management System-sql注入.md",
     "ctf/My Notebook.md",
-    "汇编/初见汇编.md",
     "php/magic methods.md",
     "hgame.vidar.club.md",
     "未命名 2.md",
     "未命名 1.md",
     "Pasted image 20261025170315.png",
     "Pasted image 20261025013505.png",
-    "未命名.md",
-    "2026-10-16.md",
-    "Words and phrases about http.md",
-    "2026-09-16.md",
-    "2026-07-28.md",
-    "English aboat cs.md",
     "未命名 1.base",
     "未命名.base",
     "汇编",
@@ -249,7 +242,6 @@
     "未命名.canvas",
     "ctf",
     "mysql",
-    "Spring Boot",
     "Pasted image 20260722213624.png",
     "Pasted image 20260720224147.png",
     "Pasted image 20260720000123.png",
